@@ -1,0 +1,14 @@
+C:\Users\KS-Laptop\source\repos\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.exe.config
+C:\Users\KS-Laptop\source\repos\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.exe
+C:\Users\KS-Laptop\source\repos\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.pdb
+C:\Users\KS-Laptop\source\repos\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.csprojAssemblyReference.cache
+C:\Users\KS-Laptop\source\repos\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.csproj.CoreCompileInputs.cache
+C:\Users\KS-Laptop\source\repos\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.exe
+C:\Users\KS-Laptop\source\repos\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.pdb
+C:\Users\KS-DeskTop\Desktop\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.exe.config
+C:\Users\KS-DeskTop\Desktop\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.exe
+C:\Users\KS-DeskTop\Desktop\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.pdb
+C:\Users\KS-DeskTop\Desktop\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.csprojAssemblyReference.cache
+C:\Users\KS-DeskTop\Desktop\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.csproj.CoreCompileInputs.cache
+C:\Users\KS-DeskTop\Desktop\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.exe
+C:\Users\KS-DeskTop\Desktop\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.pdb
